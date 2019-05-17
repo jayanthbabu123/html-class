@@ -1,0 +1,18 @@
+#first {
+    border: 1px solid red;
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    width: 30%;
+    background: blue;
+}
+
+.box {
+    border: 1px solid red;
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    width: 30%;
+    background: green;
+}
+
